@@ -49,7 +49,7 @@ public class EdgeSql
 
     private List<Dictionary<string, object>> GetParameterValues(object p)
     {
-        //Inorder to support a few forms on input we'll try and normalize the parameters into a single form
+        //Inorder to support a few forms of input we'll try and normalize the parameters into a single form
 
         //Should get this if they pass this:
         //commandParameters: {a:1}
