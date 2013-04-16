@@ -1,0 +1,23 @@
+{
+  "name": "edge-sql",
+  "author": {
+    "name": "Andrew Berglund <t3hc13h@gmail.com>",
+    "twitter": "t3hc13h"
+  },
+  "version": "0.1.0-pre",
+  "description": "Sql Server Client module for edge-js.",
+  "tags" : ["owin", "edge", "net", "clr", "c#", "managed", ".net","sqlserver"],
+  "main": "./lib/edge-sql.js",
+  "engines": { "node": ">= 0.6" },
+  "licenses": [ { "type": "Apache", "url": "http://www.apache.org/licenses/LICENSE-2.0" } ],
+  "dependencies": {
+  },
+  "homepage": "https://github.com/t3hc13h/edge-sql",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:t3hc13h/edge-sql.git"
+  },
+  "bugs" : {
+    "url" : "https://github.com/t3hc13h/edge-sql/issues"
+  }
+}
